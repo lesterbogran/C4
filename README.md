@@ -1,7 +1,7 @@
-c4 - C in four functions
+C4 - C en 4 funciones
 ========================
 
-An exercise in minimalism.
+Un ejercicio de minimalismo.
 
 Try the following:
 
