@@ -5,7 +5,7 @@ Un ejercicio de minimalismo.
 
 prueba lo siguiente:
 
-    gcc -o c4 c4.c  (necesita la opación -m32 en maquinas de 64 bit)
+    gcc -o c4 c4.c  (necesita la opción -m32 en maquinas de 64 bit)
     ./c4 hello.c
     ./c4 -s hello.c
     
